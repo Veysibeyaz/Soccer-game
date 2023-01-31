@@ -1,7 +1,7 @@
 # Soccer-game
 
 ## Oynanış
-Oyun 3 kişilik bir oyundur ortadaki top karşı tarafa gidince sayı kazanıyor.
+Oyun 2 kişilik bir oyundur ortadaki top karşı tarafa gidince sayı kazanıyor.
 
 # müzik 
 -Lets go
