@@ -15,7 +15,7 @@ isterse ana menüye geçerek sahneler arası geçiş yapabilir. (Yeni sahneye ge
 >- Oyunda A,W,S,D tuşları kullanılmaktadır.
 
 ### Oyun Sahnesi
-![This is an image](https://www.hizliresim.com/am9jvrg)
+![This is an image](https://ibb.co/XJbm1Y6)
 
 ### menuscript.cs
 
